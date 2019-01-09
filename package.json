@@ -1,0 +1,7 @@
+{
+	"name": "jsrsasign-jwths",
+	"version": "8.0.12",
+	"main": "jsrsasign-jwths.min.js",
+	"module": "jsrsasign-jwths-es.min.js",
+	"typings": "jsrsasign-jwths-es.min.d.ts"
+}
